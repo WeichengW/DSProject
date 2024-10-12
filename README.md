@@ -8,7 +8,7 @@ This project aims to predict gold prices through a hybrid approach utilizing LAS
 - Helen Hao
 - Iris Liu
 - Victor Zhao
-- Weicheng Wang
+- Weicheng Wang (First Author)
 
 ### Affiliation
 Duke University - Fuqua School of Business  
